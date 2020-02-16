@@ -1,0 +1,1643 @@
+By: Sanyukta PM
+Final implementation of the Goodies program.
+________________________________________________________________________________________________________________
+B. OUTPUT FOR THE “BUSINESS” OPTION‌
+
+Welcome to the Goodie Good vending machine!
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+2
+Select one of the following:
+1. show inventory
+2. change quantity of item
+3. change sale price of item
+4. change cost of item
+5. show the menus as seen by the customer
+________________________________________________________________________________________________________________
+C. OUTPUT FOR THE “INVENTORY” OPTION
+
+Welcome to the Goodie Good vending machine!
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+2
+Select one of the following:
+1. show inventory
+2. change quantity of item
+3. change sale price of item
+4. change cost of item
+5. show the menus as seen by the customer
+1
+
+ITEMS                STOCK           COST($)         SALE PRICE($)        SALES($)            
+
+Drinks
+
+1. Sunkist           45              39.00           1.25                 0.00           
+2. Coca Cola         45              39.00           1.25                 0.00           
+3. Ice Tea           45              38.00           1.25                 0.00           
+4. Yoohoo            45              35.00           0.50                 0.00           
+5. Sprite            45              38.00           1.25                 0.00           
+6. Ginger Ale        45              35.00           1.25                 0.00           
+7. Dr. Pepper        45              30.00           1.25                 0.00           
+8. Diet Coke         45              38.00           1.25                 0.00           
+9. Water             45              35.00           1.00                 0.00           
+
+
+Snacks
+
+1. Chips             54              25.00           0.75                 0.00           
+2. Pop corn          45              22.00           0.75                 0.00           
+3. Pop Corners       45              22.00           0.75                 0.00           
+4. Veggie Sticks     45              21.00           0.75                 0.00           
+5. Rice Krispies     45              20.00           0.50                 0.00           
+6. Cookies           45              36.00           0.75                 0.00           
+7. Granola Bars      45              40.00           0.50                 0.00           
+8. Fruit Snacks      45              28.00           0.50                 0.00           
+9. Snack Bars        45              41.00           0.50                 0.00           
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+
+________________________________________________________________________________________________________________
+D. OUTPUT FOR THE “SHOPPER” OPTION (WITHOUT RESTARTING THE PROGRAM)
+
+Welcome to the Goodie Good vending machine!
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+2
+Select one of the following:
+1. show inventory
+2. change quantity of item
+3. change sale price of item
+4. change cost of item
+5. show the menus as seen by the customer
+1
+
+ITEMS                STOCK           COST($)         SALE PRICE($)        SALES($)            
+
+Drinks
+
+1. Sunkist           45              39.00           1.25                 0.00           
+2. Coca Cola         45              39.00           1.25                 0.00           
+3. Ice Tea           45              38.00           1.25                 0.00           
+4. Yoohoo            45              35.00           0.50                 0.00           
+5. Sprite            45              38.00           1.25                 0.00           
+6. Ginger Ale        45              35.00           1.25                 0.00           
+7. Dr. Pepper        45              30.00           1.25                 0.00           
+8. Diet Coke         45              38.00           1.25                 0.00           
+9. Water             45              35.00           1.00                 0.00           
+
+
+Snacks
+
+1. Chips             54              25.00           0.75                 0.00           
+2. Pop corn          45              22.00           0.75                 0.00           
+3. Pop Corners       45              22.00           0.75                 0.00           
+4. Veggie Sticks     45              21.00           0.75                 0.00           
+5. Rice Krispies     45              20.00           0.50                 0.00           
+6. Cookies           45              36.00           0.75                 0.00           
+7. Granola Bars      45              40.00           0.50                 0.00           
+8. Fruit Snacks      45              28.00           0.50                 0.00           
+9. Snack Bars        45              41.00           0.50                 0.00           
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+________________________________________________________________________________________________________________
+‌E. SHOPPERS ACTIVITY: 
+
+______________________________________________________
+- SHOPPER 1:
+	- Sunkist - 2 units
+	- Coke - 3 units
+
+Welcome to the Goodie Good vending machine!
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+2
+Select one of the following:
+1. show inventory
+2. change quantity of item
+3. change sale price of item
+4. change cost of item
+5. show the menus as seen by the customer
+1
+
+ITEMS                STOCK           COST($)         SALE PRICE($)        SALES($)            
+
+Drinks
+
+1. Sunkist           45              39.00           1.25                 0.00           
+2. Coca Cola         45              39.00           1.25                 0.00           
+3. Ice Tea           45              38.00           1.25                 0.00           
+4. Yoohoo            45              35.00           0.50                 0.00           
+5. Sprite            45              38.00           1.25                 0.00           
+6. Ginger Ale        45              35.00           1.25                 0.00           
+7. Dr. Pepper        45              30.00           1.25                 0.00           
+8. Diet Coke         45              38.00           1.25                 0.00           
+9. Water             45              35.00           1.00                 0.00           
+
+
+Snacks
+
+1. Chips             54              25.00           0.75                 0.00           
+2. Pop corn          45              22.00           0.75                 0.00           
+3. Pop Corners       45              22.00           0.75                 0.00           
+4. Veggie Sticks     45              21.00           0.75                 0.00           
+5. Rice Krispies     45              20.00           0.50                 0.00           
+6. Cookies           45              36.00           0.75                 0.00           
+7. Granola Bars      45              40.00           0.50                 0.00           
+8. Fruit Snacks      45              28.00           0.50                 0.00           
+9. Snack Bars        45              41.00           0.50                 0.00           
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+drinks
+What is the number of the item that you'd like to purchase?
+1
+How many units of the item would you like?
+2
+
+Your order has been confirmed~
+Item: Sunkist
+Number of Units: 2
+Cost: 2.50
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+drinks
+What is the number of the item that you'd like to purchase?
+2
+How many units of the item would you like?
+3
+
+Your order has been confirmed~
+Item: Coca Cola
+Number of Units: 3
+Cost: 3.75
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+
+______________________________________________________
+- SHOPPER 2:
+	- Chips - 4 units
+	- Cookies - 1 unit
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+drinks
+What is the number of the item that you'd like to purchase?
+1
+How many units of the item would you like?
+2
+
+Your order has been confirmed~
+Item: Sunkist
+Number of Units: 2
+Cost: 2.50
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+drinks
+What is the number of the item that you'd like to purchase?
+2
+How many units of the item would you like?
+3
+
+Your order has been confirmed~
+Item: Coca Cola
+Number of Units: 3
+Cost: 3.75
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+1
+How many units of the item would you like?
+4
+
+Your order has been confirmed~
+Item: Chips
+Number of Units: 4
+Cost: 3.00
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+6
+How many units of the item would you like?
+1
+
+Your order has been confirmed~
+Item: Cookies
+Number of Units: 1
+Cost: 0.75
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+
+______________________________________________________
+- SHOPPER 3: 
+	- Water - 2 units
+	- Veggie Sticks - 3 units
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+1
+How many units of the item would you like?
+4
+
+Your order has been confirmed~
+Item: Chips
+Number of Units: 4
+Cost: 3.00
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+6
+How many units of the item would you like?
+1
+
+Your order has been confirmed~
+Item: Cookies
+Number of Units: 1
+Cost: 0.75
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+drinks
+What is the number of the item that you'd like to purchase?
+9
+How many units of the item would you like?
+2
+
+Your order has been confirmed~
+Item: Water
+Number of Units: 2
+Cost: 2.00
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+4
+How many units of the item would you like?
+3
+
+Your order has been confirmed~
+Item: Veggie Sticks
+Number of Units: 3
+Cost: 2.25
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+
+______________________________________________________
+- SHOPPER 4: 
+	- Fruit Snacks - 5 units
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+6
+How many units of the item would you like?
+1
+
+Your order has been confirmed~
+Item: Cookies
+Number of Units: 1
+Cost: 0.75
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+drinks
+What is the number of the item that you'd like to purchase?
+9
+How many units of the item would you like?
+2
+
+Your order has been confirmed~
+Item: Water
+Number of Units: 2
+Cost: 2.00
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+4
+How many units of the item would you like?
+3
+
+Your order has been confirmed~
+Item: Veggie Sticks
+Number of Units: 3
+Cost: 2.25
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+8
+How many units of the item would you like?
+5
+
+Your order has been confirmed~
+Item: Fruit Snacks
+Number of Units: 5
+Cost: 2.50
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+________________________________________________________________________________________________________________
+F. OUTPUT FOR “BUSINESS” OPTION (WITHOUT RESTARTING THE PROGRAM)
+
+
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+6
+How many units of the item would you like?
+1
+
+Your order has been confirmed~
+Item: Cookies
+Number of Units: 1
+Cost: 0.75
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+drinks
+What is the number of the item that you'd like to purchase?
+9
+How many units of the item would you like?
+2
+
+Your order has been confirmed~
+Item: Water
+Number of Units: 2
+Cost: 2.00
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+4
+How many units of the item would you like?
+3
+
+Your order has been confirmed~
+Item: Veggie Sticks
+Number of Units: 3
+Cost: 2.25
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+8
+How many units of the item would you like?
+5
+
+Your order has been confirmed~
+Item: Fruit Snacks
+Number of Units: 5
+Cost: 2.50
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+2
+Select one of the following:
+1. show inventory
+2. change quantity of item
+3. change sale price of item
+4. change cost of item
+5. show the menus as seen by the customer
+
+________________________________________________________________________________________________________________
+G. OUTPUT FOR THE “INVENTORY” OPTION
+
+Item: Cookies
+Number of Units: 1
+Cost: 0.75
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+drinks
+What is the number of the item that you'd like to purchase?
+9
+How many units of the item would you like?
+2
+
+Your order has been confirmed~
+Item: Water
+Number of Units: 2
+Cost: 2.00
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+4
+How many units of the item would you like?
+3
+
+Your order has been confirmed~
+Item: Veggie Sticks
+Number of Units: 3
+Cost: 2.25
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+8
+How many units of the item would you like?
+5
+
+Your order has been confirmed~
+Item: Fruit Snacks
+Number of Units: 5
+Cost: 2.50
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+2
+Select one of the following:
+1. show inventory
+2. change quantity of item
+3. change sale price of item
+4. change cost of item
+5. show the menus as seen by the customer
+1
+
+ITEMS                STOCK           COST($)         SALE PRICE($)        SALES($)            
+
+Drinks
+
+1. Sunkist           43              39.00           1.25                 2.50           
+2. Coca Cola         42              39.00           1.25                 3.75           
+3. Ice Tea           45              38.00           1.25                 0.00           
+4. Yoohoo            45              35.00           0.50                 0.00           
+5. Sprite            45              38.00           1.25                 0.00           
+6. Ginger Ale        45              35.00           1.25                 0.00           
+7. Dr. Pepper        45              30.00           1.25                 0.00           
+8. Diet Coke         45              38.00           1.25                 0.00           
+9. Water             43              35.00           1.00                 2.00           
+
+
+Snacks
+
+1. Chips             50              25.00           0.75                 3.00           
+2. Pop corn          45              22.00           0.75                 0.00           
+3. Pop Corners       45              22.00           0.75                 0.00           
+4. Veggie Sticks     42              21.00           0.75                 2.25           
+5. Rice Krispies     45              20.00           0.50                 0.00           
+6. Cookies           44              36.00           0.75                 0.75           
+7. Granola Bars      45              40.00           0.50                 0.00           
+8. Fruit Snacks      40              28.00           0.50                 2.50           
+9. Snack Bars        45              41.00           0.50                 0.00           
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+
+________________________________________________________________________________________________________________
+H. OUTPUT FOR THE BUSINESS MESSAGE (AFTER PROGRAM IS CLOSED)
+
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+drinks
+What is the number of the item that you'd like to purchase?
+9
+How many units of the item would you like?
+2
+
+Your order has been confirmed~
+Item: Water
+Number of Units: 2
+Cost: 2.00
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+4
+How many units of the item would you like?
+3
+
+Your order has been confirmed~
+Item: Veggie Sticks
+Number of Units: 3
+Cost: 2.25
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+1
+
+ITEMS                      PRICE ($)
+
+Drinks
+1.    Sunkist                   1.25                     
+2.    Coca Cola                 1.25                     
+3.    Ice Tea                   1.25                     
+4.    Yoohoo                    0.50                     
+5.    Sprite                    1.25                     
+6.    Ginger Ale                1.25                     
+7.    Dr. Pepper                1.25                     
+8.    Diet Coke                 1.25                     
+9.    Water                     1.00                     
+
+
+Snacks
+1.    Chips                     0.75                     
+2.    Pop corn                  0.75                     
+3.    Pop Corners               0.75                     
+4.    Veggie Sticks             0.75                     
+5.    Rice Krispies             0.50                     
+6.    Cookies                   0.75                     
+7.    Granola Bars              0.50                     
+8.    Fruit Snacks              0.50                     
+9.    Snack Bars                0.50                     
+
+Which menu will you purchase from? [drinks or snacks]
+snacks
+What is the number of the item that you'd like to purchase?
+8
+How many units of the item would you like?
+5
+
+Your order has been confirmed~
+Item: Fruit Snacks
+Number of Units: 5
+Cost: 2.50
+Thank you!
+
+
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+2
+Select one of the following:
+1. show inventory
+2. change quantity of item
+3. change sale price of item
+4. change cost of item
+5. show the menus as seen by the customer
+1
+
+ITEMS                STOCK           COST($)         SALE PRICE($)        SALES($)            
+
+Drinks
+
+1. Sunkist           43              39.00           1.25                 2.50           
+2. Coca Cola         42              39.00           1.25                 3.75           
+3. Ice Tea           45              38.00           1.25                 0.00           
+4. Yoohoo            45              35.00           0.50                 0.00           
+5. Sprite            45              38.00           1.25                 0.00           
+6. Ginger Ale        45              35.00           1.25                 0.00           
+7. Dr. Pepper        45              30.00           1.25                 0.00           
+8. Diet Coke         45              38.00           1.25                 0.00           
+9. Water             43              35.00           1.00                 2.00           
+
+
+Snacks
+
+1. Chips             50              25.00           0.75                 3.00           
+2. Pop corn          45              22.00           0.75                 0.00           
+3. Pop Corners       45              22.00           0.75                 0.00           
+4. Veggie Sticks     42              21.00           0.75                 2.25           
+5. Rice Krispies     45              20.00           0.50                 0.00           
+6. Cookies           44              36.00           0.75                 0.75           
+7. Granola Bars      45              40.00           0.50                 0.00           
+8. Fruit Snacks      40              28.00           0.50                 2.50           
+9. Snack Bars        45              41.00           0.50                 0.00           
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+3
+
+It was a pleasure to serve you! Hope to see you again!
+
+________________________________________________________________________________________________________________
+I. OUTPUT FOR A AND C AGAIN
+
+Welcome to the Goodie Good vending machine!
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+2
+Select one of the following:
+1. show inventory
+2. change quantity of item
+3. change sale price of item
+4. change cost of item
+5. show the menus as seen by the customer
+1
+
+ITEMS                STOCK           COST($)         SALE PRICE($)        SALES($)            
+
+Drinks
+
+1. Sunkist           43              39.00           1.25                 2.50           
+2. Coca Cola         42              39.00           1.25                 3.75           
+3. Ice Tea           45              38.00           1.25                 0.00           
+4. Yoohoo            45              35.00           0.50                 0.00           
+5. Sprite            45              38.00           1.25                 0.00           
+6. Ginger Ale        45              35.00           1.25                 0.00           
+7. Dr. Pepper        45              30.00           1.25                 0.00           
+8. Diet Coke         45              38.00           1.25                 0.00           
+9. Water             43              35.00           1.00                 2.00           
+
+
+Snacks
+
+1. Chips             50              25.00           0.75                 3.00           
+2. Pop corn          45              22.00           0.75                 0.00           
+3. Pop Corners       45              22.00           0.75                 0.00           
+4. Veggie Sticks     42              21.00           0.75                 2.25           
+5. Rice Krispies     45              20.00           0.50                 0.00           
+6. Cookies           44              36.00           0.75                 0.75           
+7. Granola Bars      45              40.00           0.50                 0.00           
+8. Fruit Snacks      40              28.00           0.50                 2.50           
+9. Snack Bars        45              41.00           0.50                 0.00           
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+
+
+________________________________________________________________________________________________________________
+J. OUTPUT FOR THE END OF THE BUSINESS MESSAGE 
+
+Welcome to the Goodie Good vending machine!
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+2
+Select one of the following:
+1. show inventory
+2. change quantity of item
+3. change sale price of item
+4. change cost of item
+5. show the menus as seen by the customer
+1
+
+ITEMS                STOCK           COST($)         SALE PRICE($)        SALES($)            
+
+Drinks
+
+1. Sunkist           43              39.00           1.25                 2.50           
+2. Coca Cola         42              39.00           1.25                 3.75           
+3. Ice Tea           45              38.00           1.25                 0.00           
+4. Yoohoo            45              35.00           0.50                 0.00           
+5. Sprite            45              38.00           1.25                 0.00           
+6. Ginger Ale        45              35.00           1.25                 0.00           
+7. Dr. Pepper        45              30.00           1.25                 0.00           
+8. Diet Coke         45              38.00           1.25                 0.00           
+9. Water             43              35.00           1.00                 2.00           
+
+
+Snacks
+
+1. Chips             50              25.00           0.75                 3.00           
+2. Pop corn          45              22.00           0.75                 0.00           
+3. Pop Corners       45              22.00           0.75                 0.00           
+4. Veggie Sticks     42              21.00           0.75                 2.25           
+5. Rice Krispies     45              20.00           0.50                 0.00           
+6. Cookies           44              36.00           0.75                 0.75           
+7. Granola Bars      45              40.00           0.50                 0.00           
+8. Fruit Snacks      40              28.00           0.50                 2.50           
+9. Snack Bars        45              41.00           0.50                 0.00           
+
+YOUR OPTIONS...
+1. SHOPPER - purchase an item
+2. BUSINESS - manage the business
+3. QUIT - quit the vending machine
+
+Enter [1, 2, or 3]
+3
+
+It was a pleasure to serve you! Hope to see you again!
